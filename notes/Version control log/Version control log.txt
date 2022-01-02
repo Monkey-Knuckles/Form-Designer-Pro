@@ -9,4 +9,4 @@ _______________________________________
 
 Version 0.0.0.0	| Basic files.
 Version 0.0.0.1 | Generic elements can now be generated.
-Version 0.0.0.2 | .
+Version 0.0.0.2 | Added handle detection code.

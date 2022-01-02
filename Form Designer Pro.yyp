@@ -11,7 +11,6 @@
     {"id":{"name":"To do list","path":"notes/To do list/To do list.yy",},"order":2,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":1,},
     {"id":{"name":"Version control log","path":"notes/Version control log/Version control log.yy",},"order":0,},
-    {"id":{"name":"fnc_label_element","path":"scripts/fnc_label_element/fnc_label_element.yy",},"order":3,},
     {"id":{"name":"Bug log","path":"notes/Bug log/Bug log.yy",},"order":1,},
   ],
   "Options": [
